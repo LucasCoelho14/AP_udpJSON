@@ -3,8 +3,8 @@
 #include <WiFiUdp.h>
 #include <ArduinoJson.h>
 
-const char* ssid = "embauba32"; //Define o nome do ponto de acesso
-const char* pass = "satelitaos2"; //Define a senha
+const char* ssid = "nome"; //Define o nome do ponto de acesso
+const char* pass = "senha"; //Define a senha
 
 WiFiUDP udp;
 
